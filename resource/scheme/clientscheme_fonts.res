@@ -268,7 +268,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Super Mario Bros. 2 Regular"
+				"name"			"Contra Regular"
 				"tall" 		 	"28"
 				"additive"		"0"
 				"antialias"		"0"
@@ -278,7 +278,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Super Mario Bros. 2 Regular"
+				"name"			"Contra Regular"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"0"
@@ -288,7 +288,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Super Mario Bros. 2 Regular"
+				"name"			"Contra Regular"
 				"tall" 		 	"14"
 				"additive"		"0"
 				"antialias"		"0"
@@ -298,7 +298,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Super Mario Bros. 2 Regular"
+				"name"			"Contra Regular"
 				"tall" 		 	"12"
 				"additive"		"0"
 				"antialias"		"0"
@@ -308,7 +308,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Super Mario Bros. 2 Regular"
+				"name"			"Contra Regular"
 				"tall" 		 	"10"
 				"additive"		"0"
 				"antialias"		"0"
@@ -318,7 +318,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Super Mario Bros. 2 Regular"
+				"name"			"Contra Regular"
 				"tall" 		 	"8"
 				"additive"		"0"
 				"antialias"		"0"
@@ -3380,66 +3380,68 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
+		}
 		"12"
 		{
-			"font"	"resource/fonts/Super Mario Bros. 2 Regular.ttf"
-			"name"	"Super Mario Bros. 2 Regular"
+			"font"	"resource/fonts/Contra.ttf"
+			"name"	"Contra Regular"
 			"turkish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"swedish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"spanish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"romanian"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"polish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"norwegian"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"danish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"hungarian"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"german"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"french"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"finnish"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"czech"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"bulgarian"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
 			"russian"
 			{
-				"range" "0x0000 0xFFFF"
+				"range" "0x0000 0x007E"
 			}
+		}
 		"13"
 		{
 			"font"	"resource/fonts/SteelfishRg-Regular.ttf"
@@ -3500,5 +3502,6 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
+		}
 	}
 }
